@@ -2,5 +2,6 @@ erg-1214-osx-0.9.30.dat
 erg-2018-osx-0.9.30.dat
 
 *.png
-.pyc
+*.pyc
+.ipynb_checkpoints
 
